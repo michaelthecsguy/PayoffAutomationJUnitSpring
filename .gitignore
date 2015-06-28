@@ -1,0 +1,10 @@
+.DS_Store
+jmeter.log
+.netrwhist
+*.class
+*.iml
+*.ipr
+*.iws
+.idea
+target/
+#app_config_local.yml
